@@ -1,5 +1,5 @@
 #!/bin/zsh
 
-make menuconfig
+make menuconfig -j12
 make -j12
 ./final.sh
