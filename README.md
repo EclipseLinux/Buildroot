@@ -20,6 +20,3 @@ Listing every package or file that Buildroot copies is a hassle, so i'll just na
 - Systemd
 - Wayland support
 - Zsh with the amazing [PowerLevel10K](https://github.com/romkatv/powerlevel10k) configured to work out-of-the-box
-
-### Important (for me and my ego at least)
-Since this is built completely from scratch, it doesn't fit in neither Debian or Arch (practically the two main Linux distros tbh), so it's actually it's own category. Take that.
